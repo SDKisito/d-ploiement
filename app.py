@@ -1,6 +1,7 @@
 
 #from breezy import timestamp
 #import timestamp
+!pip install yfinance
 import streamlit as st
 import yfinance as yf
 import pandas as pd
